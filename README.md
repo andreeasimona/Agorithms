@@ -1,1 +1,1 @@
-# Agorithms
+Different Algorithms written in Vanilla Javascript
